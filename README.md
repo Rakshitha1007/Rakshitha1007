@@ -1,5 +1,6 @@
 ## Hi there 👋  I'm Rakshitha Koushika!
 
+![](https://komarev.com/ghpvc/?Rakshitha1007=Rakshitha1007&color=Red)
 <!--
 **Rakshitha1007/Rakshitha1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
